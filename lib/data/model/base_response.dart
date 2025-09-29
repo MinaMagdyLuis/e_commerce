@@ -1,0 +1,6 @@
+
+
+
+class BaseResponse{
+  String ? message;
+}
